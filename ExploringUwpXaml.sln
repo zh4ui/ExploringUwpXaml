@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello", "Hello\Hello.csproj", "{4FBFCB17-7591-42F2-AB62-1FE678D433FE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintDepObjSubs", "PrintDepObjSubs\PrintDepObjSubs.csproj", "{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -41,6 +43,26 @@ Global
 		{4FBFCB17-7591-42F2-AB62-1FE678D433FE}.Release|x86.ActiveCfg = Release|x86
 		{4FBFCB17-7591-42F2-AB62-1FE678D433FE}.Release|x86.Build.0 = Release|x86
 		{4FBFCB17-7591-42F2-AB62-1FE678D433FE}.Release|x86.Deploy.0 = Release|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|ARM.Build.0 = Debug|ARM
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|ARM.Deploy.0 = Debug|ARM
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|ARM64.ActiveCfg = Debug|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|x64.ActiveCfg = Debug|x64
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|x64.Build.0 = Debug|x64
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|x64.Deploy.0 = Debug|x64
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|x86.ActiveCfg = Debug|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|x86.Build.0 = Debug|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Debug|x86.Deploy.0 = Debug|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|ARM.ActiveCfg = Release|ARM
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|ARM.Build.0 = Release|ARM
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|ARM.Deploy.0 = Release|ARM
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|ARM64.ActiveCfg = Release|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|x64.ActiveCfg = Release|x64
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|x64.Build.0 = Release|x64
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|x64.Deploy.0 = Release|x64
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|x86.ActiveCfg = Release|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|x86.Build.0 = Release|x86
+		{3BDACEE2-0332-4B25-BDFE-D0AF86298EE2}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
